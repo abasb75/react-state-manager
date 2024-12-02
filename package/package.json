@@ -1,6 +1,6 @@
 {
     "name": "@abasb75/react-state-manager",
-    "version": "0.0.0-test0",
+    "version": "0.0.0-test1",
     "description": "a react powerfull state manager",
     "main": "index.js",
     "type": "module",

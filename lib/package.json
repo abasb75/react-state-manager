@@ -1,6 +1,6 @@
 {
-    "name": "@abasb75/react-state-manager",
-    "version": "0.0.0-test0",
+    "name": "@abasb75/state-manager",
+    "version": "0.0.0-test1",
     "description": "a react powerfull state manager",
     "main": "index.js",
     "type": "module",
@@ -20,7 +20,7 @@
     },
     "homepage": "https://github.com/abasb75/react-state-manager#readme",
     "dependencies": {
-        "@abasb75/state-manager": "^0.0.0-test0",
+        "@abasb75/state-manager": "^0.0.0-tes6",
         "react": "^18.3.1",
         "react-dom": "^18.3.1"
       },
